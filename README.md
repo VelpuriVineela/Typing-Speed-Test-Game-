@@ -4,6 +4,10 @@ Test and improve your typing skills with this interactive Typing Speed Game! Com
 
 ![Game Demo]
 
+![Screenshot (284)](https://github.com/VelpuriVineela/Typing-Speed-Test-Game-/assets/134683293/3cd0287e-34be-4934-b9d2-36f239e1e513)
+
+![Screenshot (285)](https://github.com/VelpuriVineela/Typing-Speed-Test-Game-/assets/134683293/923a8663-95af-451c-a157-dbef1f17b847)
+
 
  
 ## Table of Contents
